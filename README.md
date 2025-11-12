@@ -1,7 +1,5 @@
 # 🎵 Project | Analyzing Website Performance for *The GRAMMYs*
 
-![Recording Academy Logo](https://upload.wikimedia.org/wikipedia/en/7/7b/Grammy_Awards_logo.svg)
-
 ---
 
 ## 🏆 Overview
